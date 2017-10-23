@@ -1,4 +1,4 @@
 # Website-bookmarker
 
 
-THis project was solely for th epurpose of helping me learn JavaScript
+This project was solely for th epurpose of helping me learn JavaScript
